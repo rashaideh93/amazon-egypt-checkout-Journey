@@ -1,4 +1,4 @@
-# Amazon Automation Checkout Journey
+# Amazon Automation Checkout Journey && Foodics APIs Tests
 ## Introduction
 This project aims to automate a scenario on the Amazon Egypt e-commerce website using Selenium WebDriver with Java and TestNG testing framework.
 
